@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karxiedev&label=Profile%20views&color=0e75b6&style=flat" alt="karxiedev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karxiedev" alt="karxiedev" /></a> </p>
-
 - 🔭 I’m currently working on [MonPixel RP Mongolia](https://discord.io/monpixelrp)
 
 - 🌱 I’m currently learning **NP-Base, Lua, Java, Python**
