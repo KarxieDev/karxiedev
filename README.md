@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1007861948156739584/1085229627666075748/R_1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karxie From Mongolia</h1>
 <h3 align="center">A Mongolian Fivem Developer Of All FW</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1007861948156739584/1085229513174155364/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1007861948156739584/1085229513174155364/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karxiedev&label=Profile%20views&color=0e75b6&style=flat" alt="karxiedev" /> </p>
 
